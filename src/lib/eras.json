@@ -1,0 +1,1020 @@
+[
+  {
+    "title": "Homework",
+    "coverUrl": "/homework.jpeg",
+    "artists": [
+      {
+        "name": "Alan Braxe",
+        "artistId": "24JRvbKfTcF2x7c2kCCJrW",
+        "embedHtml": "<iframe loading=\"lazy\" referrerpolicy=\"no-referrer\" style=\"border-radius: 12px\" width=\"100%\" height=\"352\" title=\"Spotify Embed: Alan Braxe\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/artist/24JRvbKfTcF2x7c2kCCJrW?utm_source=oembed\"></iframe>",
+        "thumbnailUrl": "https://image-cdn-ak.spotifycdn.com/image/ab67616100005174b1fad66ab3965d69814b4485"
+      },
+      {
+        "name": "Basement Jaxx",
+        "artistId": "4YrKBkKSVeqDamzBPWVnSJ",
+        "embedHtml": "<iframe loading=\"lazy\" referrerpolicy=\"no-referrer\" style=\"border-radius: 12px\" width=\"100%\" height=\"352\" title=\"Spotify Embed: Basement Jaxx\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/artist/4YrKBkKSVeqDamzBPWVnSJ?utm_source=oembed\"></iframe>",
+        "thumbnailUrl": "https://image-cdn-fa.spotifycdn.com/image/ab67616100005174fb07b8d0b7cc60c26de3b145"
+      },
+      {
+        "name": "Cassius",
+        "artistId": "4sf3QZW8a3xZ14IGsOAzoy",
+        "embedHtml": "<iframe loading=\"lazy\" referrerpolicy=\"no-referrer\" style=\"border-radius: 12px\" width=\"100%\" height=\"352\" title=\"Spotify Embed: Cassius\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/artist/4sf3QZW8a3xZ14IGsOAzoy?utm_source=oembed\"></iframe>",
+        "thumbnailUrl": "https://image-cdn-ak.spotifycdn.com/image/ab676161000051746686276b73ec5c27ae481992"
+      },
+      {
+        "name": "Demon",
+        "artistId": "4LiDDSfUo671okhAa6OSHY",
+        "embedHtml": "<iframe loading=\"lazy\" referrerpolicy=\"no-referrer\" style=\"border-radius: 12px\" width=\"100%\" height=\"352\" title=\"Spotify Embed: Demon\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/artist/4LiDDSfUo671okhAa6OSHY?utm_source=oembed\"></iframe>",
+        "thumbnailUrl": "https://image-cdn-ak.spotifycdn.com/image/ab67616100005174e3d1ec18442e165c1af9c340"
+      },
+      {
+        "name": "DJ Falcon",
+        "artistId": "7mLoDOOVW8VlPUTii10xH5",
+        "embedHtml": "<iframe loading=\"lazy\" referrerpolicy=\"no-referrer\" style=\"border-radius: 12px\" width=\"100%\" height=\"352\" title=\"Spotify Embed: DJ Falcon\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/artist/7mLoDOOVW8VlPUTii10xH5?utm_source=oembed\"></iframe>",
+        "thumbnailUrl": "https://image-cdn-ak.spotifycdn.com/image/ab67616100005174869f824aa8f4bbad9fc0c970"
+      },
+      {
+        "name": "Étienne de Crécy",
+        "artistId": "78YRbJhMi5kXKruiQGCJo7",
+        "embedHtml": "<iframe loading=\"lazy\" referrerpolicy=\"no-referrer\" style=\"border-radius: 12px\" width=\"100%\" height=\"352\" title=\"Spotify Embed: Étienne de Crécy\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/artist/78YRbJhMi5kXKruiQGCJo7?utm_source=oembed\"></iframe>",
+        "thumbnailUrl": "https://image-cdn-fa.spotifycdn.com/image/ab67616100005174f52225ec56b3c7fbe43a2a8f"
+      },
+      {
+        "name": "Fred Falke",
+        "artistId": "0AfNNw1LS2i9KW4icd7inD",
+        "embedHtml": "<iframe loading=\"lazy\" referrerpolicy=\"no-referrer\" style=\"border-radius: 12px\" width=\"100%\" height=\"352\" title=\"Spotify Embed: Fred Falke\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/artist/0AfNNw1LS2i9KW4icd7inD?utm_source=oembed\"></iframe>",
+        "thumbnailUrl": "https://image-cdn-ak.spotifycdn.com/image/ab67616100005174903baf326cf61a683b31cdee"
+      },
+      {
+        "name": "Ian Pooley",
+        "artistId": "1m4GViPjIy4T8Pd0Iz6hRS",
+        "embedHtml": "<iframe loading=\"lazy\" referrerpolicy=\"no-referrer\" style=\"border-radius: 12px\" width=\"100%\" height=\"352\" title=\"Spotify Embed: Ian Pooley\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/artist/1m4GViPjIy4T8Pd0Iz6hRS?utm_source=oembed\"></iframe>",
+        "thumbnailUrl": "https://image-cdn-ak.spotifycdn.com/image/ab67616100005174deacf74b24ef5bd82ee3d279"
+      },
+      {
+        "name": "Modjo",
+        "artistId": "0AkpPlFLnr0VQwZQeMGht0",
+        "embedHtml": "<iframe loading=\"lazy\" referrerpolicy=\"no-referrer\" style=\"border-radius: 12px\" width=\"100%\" height=\"352\" title=\"Spotify Embed: Modjo\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/artist/0AkpPlFLnr0VQwZQeMGht0?utm_source=oembed\"></iframe>",
+        "thumbnailUrl": "https://image-cdn-fa.spotifycdn.com/image/ab676161000051745a109bab2d99052810ba2450"
+      },
+      {
+        "name": "Raw Man",
+        "artistId": "7q3TH1mtB9tokEPWvoKFSv",
+        "embedHtml": "<iframe loading=\"lazy\" referrerpolicy=\"no-referrer\" style=\"border-radius: 12px\" width=\"100%\" height=\"352\" title=\"Spotify Embed: Raw Man\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/artist/7q3TH1mtB9tokEPWvoKFSv?utm_source=oembed\"></iframe>",
+        "thumbnailUrl": "https://image-cdn-ak.spotifycdn.com/image/ab676161000051744bf343ceab9c38902036935d"
+      },
+      {
+        "name": "Tiger & Woods",
+        "artistId": "0AEi1DK5ehyvkZzOUlqEVz",
+        "embedHtml": "<iframe loading=\"lazy\" referrerpolicy=\"no-referrer\" style=\"border-radius: 12px\" width=\"100%\" height=\"352\" title=\"Spotify Embed: Tiger &amp; Woods\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/artist/0AEi1DK5ehyvkZzOUlqEVz?utm_source=oembed\"></iframe>",
+        "thumbnailUrl": "https://image-cdn-ak.spotifycdn.com/image/ab676161000051740c1a6c1368b3619dd1baa9d0"
+      },
+      {
+        "name": "DJ Sneak",
+        "artistId": "5He9yPmPv0Du9hASUlTUjr",
+        "embedHtml": "<iframe loading=\"lazy\" referrerpolicy=\"no-referrer\" style=\"border-radius: 12px\" width=\"100%\" height=\"352\" title=\"Spotify Embed: DJ Sneak\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/artist/5He9yPmPv0Du9hASUlTUjr?utm_source=oembed\"></iframe>",
+        "thumbnailUrl": "https://image-cdn-fa.spotifycdn.com/image/ab676161000051745ce9e3c072555a96af3f31ff"
+      }
+    ]
+  },
+  {
+    "title": "Alive 1997",
+    "coverUrl": "/alive_1997.png",
+    "artists": [
+      {
+        "name": "Brodinski",
+        "artistId": "0ZurilbRp6KwW6dpaw4pEK",
+        "embedHtml": "<iframe loading=\"lazy\" referrerpolicy=\"no-referrer\" style=\"border-radius: 12px\" width=\"100%\" height=\"352\" title=\"Spotify Embed: Brodinski\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/artist/0ZurilbRp6KwW6dpaw4pEK?utm_source=oembed\"></iframe>",
+        "thumbnailUrl": "https://image-cdn-ak.spotifycdn.com/image/ab67616100005174ae8e0a244593e1bfee22bd87"
+      },
+      {
+        "name": "Erol Alkan",
+        "artistId": "3jQ8hpdQo3TCEnb5gmOtH5",
+        "embedHtml": "<iframe loading=\"lazy\" referrerpolicy=\"no-referrer\" style=\"border-radius: 12px\" width=\"100%\" height=\"352\" title=\"Spotify Embed: Erol Alkan\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/artist/3jQ8hpdQo3TCEnb5gmOtH5?utm_source=oembed\"></iframe>",
+        "thumbnailUrl": "https://image-cdn-ak.spotifycdn.com/image/ab67616100005174a454af2e4ae2cbf2dc7471ae"
+      },
+      {
+        "name": "Felix da Housecat",
+        "artistId": "4rC8J4M4aOqsQSCP4yoyJI",
+        "embedHtml": "<iframe loading=\"lazy\" referrerpolicy=\"no-referrer\" style=\"border-radius: 12px\" width=\"100%\" height=\"352\" title=\"Spotify Embed: Felix Da Housecat\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/artist/4rC8J4M4aOqsQSCP4yoyJI?utm_source=oembed\"></iframe>",
+        "thumbnailUrl": "https://image-cdn-fa.spotifycdn.com/image/ab67616100005174064979168204603d32b5950e"
+      },
+      {
+        "name": "Gesaffelstein",
+        "artistId": "3hteYQFiMFbJY7wS0xDymP",
+        "embedHtml": "<iframe loading=\"lazy\" referrerpolicy=\"no-referrer\" style=\"border-radius: 12px\" width=\"100%\" height=\"352\" title=\"Spotify Embed: Gesaffelstein\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/artist/3hteYQFiMFbJY7wS0xDymP?utm_source=oembed\"></iframe>",
+        "thumbnailUrl": "https://image-cdn-ak.spotifycdn.com/image/ab67616100005174d1b0c16bf77cfe30c09b4951"
+      },
+      {
+        "name": "Laurent Garnier",
+        "artistId": "3y1SoTOdrmRNTBVph5T0VZ",
+        "embedHtml": "<iframe loading=\"lazy\" referrerpolicy=\"no-referrer\" style=\"border-radius: 12px\" width=\"100%\" height=\"352\" title=\"Spotify Embed: Laurent Garnier\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/artist/3y1SoTOdrmRNTBVph5T0VZ?utm_source=oembed\"></iframe>",
+        "thumbnailUrl": "https://image-cdn-ak.spotifycdn.com/image/ab676161000051747a4809df7e00b6420a18a4c0"
+      },
+      {
+        "name": "Miss Kittin",
+        "artistId": "3QhNv79NoIvarU6N57GBzL",
+        "embedHtml": "<iframe loading=\"lazy\" referrerpolicy=\"no-referrer\" style=\"border-radius: 12px\" width=\"100%\" height=\"352\" title=\"Spotify Embed: Miss Kittin\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/artist/3QhNv79NoIvarU6N57GBzL?utm_source=oembed\"></iframe>",
+        "thumbnailUrl": "https://image-cdn-ak.spotifycdn.com/image/ab6761610000517400c5ff6ec17bc11956ee0405"
+      },
+      {
+        "name": "Raito",
+        "artistId": "5RXdPHNmsB6OQn8rUyRQtl",
+        "embedHtml": "<iframe loading=\"lazy\" referrerpolicy=\"no-referrer\" style=\"border-radius: 12px\" width=\"100%\" height=\"352\" title=\"Spotify Embed: Raito\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/artist/5RXdPHNmsB6OQn8rUyRQtl?utm_source=oembed\"></iframe>",
+        "thumbnailUrl": "https://image-cdn-ak.spotifycdn.com/image/ab67616100005174a088c29d7aee3779548f49a5"
+      },
+      {
+        "name": "The Chemical Brothers",
+        "artistId": "1GhPHrq36VKCY3ucVaZCfo",
+        "embedHtml": "<iframe loading=\"lazy\" referrerpolicy=\"no-referrer\" style=\"border-radius: 12px\" width=\"100%\" height=\"352\" title=\"Spotify Embed: The Chemical Brothers\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/artist/1GhPHrq36VKCY3ucVaZCfo?utm_source=oembed\"></iframe>",
+        "thumbnailUrl": "https://image-cdn-ak.spotifycdn.com/image/ab67616100005174ae05213e52565bfd7e7489b3"
+      },
+      {
+        "name": "The Hacker",
+        "artistId": "763V8ZisRsw5kCoquzKTUp",
+        "embedHtml": "<iframe loading=\"lazy\" referrerpolicy=\"no-referrer\" style=\"border-radius: 12px\" width=\"100%\" height=\"352\" title=\"Spotify Embed: The Hacker\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/artist/763V8ZisRsw5kCoquzKTUp?utm_source=oembed\"></iframe>",
+        "thumbnailUrl": "https://image-cdn-ak.spotifycdn.com/image/ab676161000051741039076df8c0631daa8a2dde"
+      },
+      {
+        "name": "Tracques",
+        "artistId": "0KGRYzPoDc1CGjwJ8RPACK",
+        "embedHtml": "<iframe loading=\"lazy\" referrerpolicy=\"no-referrer\" style=\"border-radius: 12px\" width=\"100%\" height=\"352\" title=\"Spotify Embed: Tracques\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/artist/0KGRYzPoDc1CGjwJ8RPACK?utm_source=oembed\"></iframe>",
+        "thumbnailUrl": "https://image-cdn-fa.spotifycdn.com/image/ab67616d00001e0288b12979f05e189dd6207530"
+      }
+    ]
+  },
+  {
+    "title": "Discovery",
+    "coverUrl": "/discovery.png",
+    "artists": [
+      {
+        "name": "Bag Raiders",
+        "artistId": "6fXEqmGQEt6ONuqVmwrN46",
+        "embedHtml": "<iframe loading=\"lazy\" referrerpolicy=\"no-referrer\" style=\"border-radius: 12px\" width=\"100%\" height=\"352\" title=\"Spotify Embed: Bag Raiders\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/artist/6fXEqmGQEt6ONuqVmwrN46?utm_source=oembed\"></iframe>",
+        "thumbnailUrl": "https://image-cdn-ak.spotifycdn.com/image/ab676161000051748ec6bbfb69d4d02b435e50b5"
+      },
+      {
+        "name": "Breakbot",
+        "artistId": "0iui2Be5CP8EWxvHYsVspL",
+        "embedHtml": "<iframe loading=\"lazy\" referrerpolicy=\"no-referrer\" style=\"border-radius: 12px\" width=\"100%\" height=\"352\" title=\"Spotify Embed: Breakbot\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/artist/0iui2Be5CP8EWxvHYsVspL?utm_source=oembed\"></iframe>",
+        "thumbnailUrl": "https://image-cdn-ak.spotifycdn.com/image/ab676161000051746d38086452e28cd10f9c6c5a"
+      },
+      {
+        "name": "Classixx",
+        "artistId": "0vUTfcBDZZo2OUQJci5UNZ",
+        "embedHtml": "<iframe loading=\"lazy\" referrerpolicy=\"no-referrer\" style=\"border-radius: 12px\" width=\"100%\" height=\"352\" title=\"Spotify Embed: Classixx\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/artist/0vUTfcBDZZo2OUQJci5UNZ?utm_source=oembed\"></iframe>",
+        "thumbnailUrl": "https://image-cdn-ak.spotifycdn.com/image/ab676161000051742ebd4bc70eebd1cb27d28ece"
+      },
+      {
+        "name": "Cut Copy",
+        "artistId": "4EENT7N7rCBwrddM3s0vFS",
+        "embedHtml": "<iframe loading=\"lazy\" referrerpolicy=\"no-referrer\" style=\"border-radius: 12px\" width=\"100%\" height=\"352\" title=\"Spotify Embed: Cut Copy\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/artist/4EENT7N7rCBwrddM3s0vFS?utm_source=oembed\"></iframe>",
+        "thumbnailUrl": "https://image-cdn-ak.spotifycdn.com/image/ab676161000051743f5e2ee9b37b39a691d2d7c6"
+      },
+      {
+        "name": "Darius",
+        "artistId": "5vfEaoOBcK0Lzr07WN8KaK",
+        "embedHtml": "<iframe loading=\"lazy\" referrerpolicy=\"no-referrer\" style=\"border-radius: 12px\" width=\"100%\" height=\"352\" title=\"Spotify Embed: Darius\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/artist/5vfEaoOBcK0Lzr07WN8KaK?utm_source=oembed\"></iframe>",
+        "thumbnailUrl": "https://image-cdn-fa.spotifycdn.com/image/ab67616100005174bd4a365af478a264bbb021f3"
+      },
+      {
+        "name": "Hystereo",
+        "artistId": "122CqDpvVy1fMI6BRd1UIg",
+        "embedHtml": "<iframe loading=\"lazy\" referrerpolicy=\"no-referrer\" style=\"border-radius: 12px\" width=\"100%\" height=\"352\" title=\"Spotify Embed: Hystereo\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/artist/122CqDpvVy1fMI6BRd1UIg?utm_source=oembed\"></iframe>",
+        "thumbnailUrl": "https://image-cdn-ak.spotifycdn.com/image/ab67616d00001e025b9a98c3ad3e0489db4e4d91"
+      },
+      {
+        "name": "Les Rythmes Digitales",
+        "artistId": "02zMQvIvPXbVOLDdFqbFUn",
+        "embedHtml": "<iframe loading=\"lazy\" referrerpolicy=\"no-referrer\" style=\"border-radius: 12px\" width=\"100%\" height=\"352\" title=\"Spotify Embed: Les Rythmes Digitales\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/artist/02zMQvIvPXbVOLDdFqbFUn?utm_source=oembed\"></iframe>",
+        "thumbnailUrl": "https://image-cdn-ak.spotifycdn.com/image/ab67616d00001e0226131b3b34052fdb98a65484"
+      },
+      {
+        "name": "Madeon",
+        "artistId": "4pb4rqWSoGUgxm63xmJ8xc",
+        "embedHtml": "<iframe loading=\"lazy\" referrerpolicy=\"no-referrer\" style=\"border-radius: 12px\" width=\"100%\" height=\"352\" title=\"Spotify Embed: Madeon\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/artist/4pb4rqWSoGUgxm63xmJ8xc?utm_source=oembed\"></iframe>",
+        "thumbnailUrl": "https://image-cdn-ak.spotifycdn.com/image/ab676161000051744cf8948aff6af5808763bb01"
+      },
+      {
+        "name": "Miami Horror",
+        "artistId": "0Z5pcmXDCKTrFWLnDChC37",
+        "embedHtml": "<iframe loading=\"lazy\" referrerpolicy=\"no-referrer\" style=\"border-radius: 12px\" width=\"100%\" height=\"352\" title=\"Spotify Embed: Miami Horror\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/artist/0Z5pcmXDCKTrFWLnDChC37?utm_source=oembed\"></iframe>",
+        "thumbnailUrl": "https://image-cdn-ak.spotifycdn.com/image/ab67616100005174690bc942cdf24658258fd39d"
+      },
+      {
+        "name": "Mylo",
+        "artistId": "5YjEVrNMrIRw2xGbjTN6Ti",
+        "embedHtml": "<iframe loading=\"lazy\" referrerpolicy=\"no-referrer\" style=\"border-radius: 12px\" width=\"100%\" height=\"352\" title=\"Spotify Embed: Mylo\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/artist/5YjEVrNMrIRw2xGbjTN6Ti?utm_source=oembed\"></iframe>",
+        "thumbnailUrl": "https://image-cdn-ak.spotifycdn.com/image/ab6761610000517471c2ad98179affb122bb54dc"
+      },
+      {
+        "name": "Oliver",
+        "artistId": "0NDElNqwGRCmsYIQFapp6K",
+        "embedHtml": "<iframe loading=\"lazy\" referrerpolicy=\"no-referrer\" style=\"border-radius: 12px\" width=\"100%\" height=\"352\" title=\"Spotify Embed: Oliver\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/artist/0NDElNqwGRCmsYIQFapp6K?utm_source=oembed\"></iframe>",
+        "thumbnailUrl": "https://image-cdn-ak.spotifycdn.com/image/ab67616100005174088f835c07dba69a6af2ad13"
+      },
+      {
+        "name": "Sam Gellaitry",
+        "artistId": "07UJz804RJxqNvxFXC3h9H",
+        "embedHtml": "<iframe loading=\"lazy\" referrerpolicy=\"no-referrer\" style=\"border-radius: 12px\" width=\"100%\" height=\"352\" title=\"Spotify Embed: Sam Gellaitry\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/artist/07UJz804RJxqNvxFXC3h9H?utm_source=oembed\"></iframe>",
+        "thumbnailUrl": "https://image-cdn-ak.spotifycdn.com/image/ab676161000051744847cccd103ac9260b041689"
+      },
+      {
+        "name": "The Avalanches",
+        "artistId": "3C8RpaI3Go0yFF9whvKoED",
+        "embedHtml": "<iframe loading=\"lazy\" referrerpolicy=\"no-referrer\" style=\"border-radius: 12px\" width=\"100%\" height=\"352\" title=\"Spotify Embed: The Avalanches\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/artist/3C8RpaI3Go0yFF9whvKoED?utm_source=oembed\"></iframe>",
+        "thumbnailUrl": "https://image-cdn-fa.spotifycdn.com/image/ab67616100005174348fb7d638c8f86c675122e2"
+      }
+    ]
+  },
+  {
+    "title": "Interstella 5555",
+    "coverUrl": "/interstella.webp",
+    "artists": [
+      {
+        "name": "CFCF",
+        "artistId": "73IRHBhotETMmgvRCEyTCS",
+        "embedHtml": "<iframe loading=\"lazy\" referrerpolicy=\"no-referrer\" style=\"border-radius: 12px\" width=\"100%\" height=\"352\" title=\"Spotify Embed: CFCF\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/artist/73IRHBhotETMmgvRCEyTCS?utm_source=oembed\"></iframe>",
+        "thumbnailUrl": "https://image-cdn-ak.spotifycdn.com/image/ab67616100005174cbf1e8c05c9a804df606eeea"
+      },
+      {
+        "name": "ev.exi",
+        "artistId": "625cTtpQZkHRwLwEtpVbA1",
+        "embedHtml": "<iframe loading=\"lazy\" referrerpolicy=\"no-referrer\" style=\"border-radius: 12px\" width=\"100%\" height=\"352\" title=\"Spotify Embed: ev.exi\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/artist/625cTtpQZkHRwLwEtpVbA1?utm_source=oembed\"></iframe>",
+        "thumbnailUrl": "https://image-cdn-ak.spotifycdn.com/image/ab676161000051740da9103b40f3abacc05b427f"
+      },
+      {
+        "name": "FIBRE",
+        "artistId": "4TTEh9cj0iUXFJFBHsysF4",
+        "embedHtml": "<iframe loading=\"lazy\" referrerpolicy=\"no-referrer\" style=\"border-radius: 12px\" width=\"100%\" height=\"352\" title=\"Spotify Embed: FIBRE\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/artist/4TTEh9cj0iUXFJFBHsysF4?utm_source=oembed\"></iframe>",
+        "thumbnailUrl": "https://image-cdn-ak.spotifycdn.com/image/ab676161000051743685db43b1630ed67dd003ae"
+      },
+      {
+        "name": "Haywyre",
+        "artistId": "7aUSp5cOZlwEtd5zPC795k",
+        "embedHtml": "<iframe loading=\"lazy\" referrerpolicy=\"no-referrer\" style=\"border-radius: 12px\" width=\"100%\" height=\"352\" title=\"Spotify Embed: Haywyre\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/artist/7aUSp5cOZlwEtd5zPC795k?utm_source=oembed\"></iframe>",
+        "thumbnailUrl": "https://image-cdn-fa.spotifycdn.com/image/ab67616100005174b253514b2364f9ecbce99a4d"
+      },
+      {
+        "name": "MACROSS 82-99",
+        "artistId": "5C8KyBfvAz9PSaOd30eIow",
+        "embedHtml": "<iframe loading=\"lazy\" referrerpolicy=\"no-referrer\" style=\"border-radius: 12px\" width=\"100%\" height=\"352\" title=\"Spotify Embed: Macross 82-99\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/artist/5C8KyBfvAz9PSaOd30eIow?utm_source=oembed\"></iframe>",
+        "thumbnailUrl": "https://image-cdn-ak.spotifycdn.com/image/ab67616100005174d956e523daaf07a6817858e3"
+      },
+      {
+        "name": "Mere Notilde",
+        "artistId": "2d3wstlwe427Q7CamLXlpO",
+        "embedHtml": "<iframe loading=\"lazy\" referrerpolicy=\"no-referrer\" style=\"border-radius: 12px\" width=\"100%\" height=\"352\" title=\"Spotify Embed: Mere Notilde\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/artist/2d3wstlwe427Q7CamLXlpO?utm_source=oembed\"></iframe>",
+        "thumbnailUrl": "https://image-cdn-ak.spotifycdn.com/image/ab676161000051740dabef2b2f199b652f9d20e6"
+      },
+      {
+        "name": "MONDO GROSSO",
+        "artistId": "4d2zOuYJHBPJTpVblHEKJb",
+        "embedHtml": "<iframe loading=\"lazy\" referrerpolicy=\"no-referrer\" style=\"border-radius: 12px\" width=\"100%\" height=\"352\" title=\"Spotify Embed: Mondo Grosso\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/artist/4d2zOuYJHBPJTpVblHEKJb?utm_source=oembed\"></iframe>",
+        "thumbnailUrl": "https://image-cdn-ak.spotifycdn.com/image/ab676161000051745b4f137bc2564029762e1653"
+      },
+      {
+        "name": "Porter Robinson",
+        "artistId": "3dz0NnIZhtKKeXZxLOxCam",
+        "embedHtml": "<iframe loading=\"lazy\" referrerpolicy=\"no-referrer\" style=\"border-radius: 12px\" width=\"100%\" height=\"352\" title=\"Spotify Embed: Porter Robinson\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/artist/3dz0NnIZhtKKeXZxLOxCam?utm_source=oembed\"></iframe>",
+        "thumbnailUrl": "https://image-cdn-ak.spotifycdn.com/image/ab676161000051741ac12dcb2cc4fc7c740c5e0c"
+      },
+      {
+        "name": "PROUX",
+        "artistId": "7AKW9JOP3AkZzGDqwtbUvu",
+        "embedHtml": "<iframe loading=\"lazy\" referrerpolicy=\"no-referrer\" style=\"border-radius: 12px\" width=\"100%\" height=\"352\" title=\"Spotify Embed: Proux\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/artist/7AKW9JOP3AkZzGDqwtbUvu?utm_source=oembed\"></iframe>",
+        "thumbnailUrl": "https://image-cdn-ak.spotifycdn.com/image/ab6761610000517425eb781ebe8bc5629d227a49"
+      },
+      {
+        "name": "Skylar Spence",
+        "artistId": "0x0u0jCVf5Jf4DNh45XPXL",
+        "embedHtml": "<iframe loading=\"lazy\" referrerpolicy=\"no-referrer\" style=\"border-radius: 12px\" width=\"100%\" height=\"352\" title=\"Spotify Embed: Skylar Spence\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/artist/0x0u0jCVf5Jf4DNh45XPXL?utm_source=oembed\"></iframe>",
+        "thumbnailUrl": "https://image-cdn-ak.spotifycdn.com/image/ab67616100005174144a841bd710e497c29a4cbe"
+      },
+      {
+        "name": "The Phantom's Revenge",
+        "artistId": "4PbkB0f0bB7XeKU54QNTwe",
+        "embedHtml": "<iframe loading=\"lazy\" referrerpolicy=\"no-referrer\" style=\"border-radius: 12px\" width=\"100%\" height=\"352\" title=\"Spotify Embed: The Phantom&apos;s Revenge\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/artist/4PbkB0f0bB7XeKU54QNTwe?utm_source=oembed\"></iframe>",
+        "thumbnailUrl": "https://image-cdn-fa.spotifycdn.com/image/ab67616100005174128837d2fa712a2b41587a59"
+      },
+      {
+        "name": "Unibe@t",
+        "artistId": "1h9Qvyu1kcChodIA2z04Jg",
+        "embedHtml": "<iframe loading=\"lazy\" referrerpolicy=\"no-referrer\" style=\"border-radius: 12px\" width=\"100%\" height=\"352\" title=\"Spotify Embed: UniBe@t\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/artist/1h9Qvyu1kcChodIA2z04Jg?utm_source=oembed\"></iframe>",
+        "thumbnailUrl": "https://image-cdn-ak.spotifycdn.com/image/ab6761610000517492f60245b0a7a15eaa0a9a7c"
+      },
+      {
+        "name": "Yung Bae",
+        "artistId": "30FDJPN3RtwJZ20g5YGCRX",
+        "embedHtml": "<iframe loading=\"lazy\" referrerpolicy=\"no-referrer\" style=\"border-radius: 12px\" width=\"100%\" height=\"352\" title=\"Spotify Embed: Yung Bae\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/artist/30FDJPN3RtwJZ20g5YGCRX?utm_source=oembed\"></iframe>",
+        "thumbnailUrl": "https://image-cdn-fa.spotifycdn.com/image/ab67616100005174728f1ef7ce13bc9bece9e8d0"
+      }
+    ]
+  },
+  {
+    "title": "Human After All",
+    "coverUrl": "/haa.jpeg",
+    "artists": [
+      {
+        "name": "Boys Noize",
+        "artistId": "62k5LKMhymqlDNo2DWOvvv",
+        "embedHtml": "<iframe loading=\"lazy\" referrerpolicy=\"no-referrer\" style=\"border-radius: 12px\" width=\"100%\" height=\"352\" title=\"Spotify Embed: Boys Noize\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/artist/62k5LKMhymqlDNo2DWOvvv?utm_source=oembed\"></iframe>",
+        "thumbnailUrl": "https://image-cdn-ak.spotifycdn.com/image/ab676161000051741fc195ac5c1868725eced009"
+      },
+      {
+        "name": "Digitalism",
+        "artistId": "2fBURuq7FrlH6z5F92mpOl",
+        "embedHtml": "<iframe loading=\"lazy\" referrerpolicy=\"no-referrer\" style=\"border-radius: 12px\" width=\"100%\" height=\"352\" title=\"Spotify Embed: Digitalism\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/artist/2fBURuq7FrlH6z5F92mpOl?utm_source=oembed\"></iframe>",
+        "thumbnailUrl": "https://image-cdn-fa.spotifycdn.com/image/ab676161000051745f592fa7bcfc1940f1c32021"
+      },
+      {
+        "name": "Does It Offend You, Yeah?",
+        "artistId": "4bFfSfCBYpFh37ziXCSqUs",
+        "embedHtml": "<iframe loading=\"lazy\" referrerpolicy=\"no-referrer\" style=\"border-radius: 12px\" width=\"100%\" height=\"352\" title=\"Spotify Embed: Does It Offend You, Yeah?\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/artist/4bFfSfCBYpFh37ziXCSqUs?utm_source=oembed\"></iframe>",
+        "thumbnailUrl": "https://image-cdn-ak.spotifycdn.com/image/ab676161000051745cae76c26287be408b1fbcfd"
+      },
+      {
+        "name": "Jackson And His Computerband",
+        "artistId": "7Jdjjb3kJWyPmV5MbdVdTv",
+        "embedHtml": "<iframe loading=\"lazy\" referrerpolicy=\"no-referrer\" style=\"border-radius: 12px\" width=\"100%\" height=\"352\" title=\"Spotify Embed: Jackson And His Computer Band\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/artist/7Jdjjb3kJWyPmV5MbdVdTv?utm_source=oembed\"></iframe>",
+        "thumbnailUrl": "https://i.scdn.co/image/39026afe6da73382f50e88d2dd51f93e78d7fcbb"
+      },
+      {
+        "name": "Late of the Pier",
+        "artistId": "5ZBQea34QfBgEDkcGEKK2b",
+        "embedHtml": "<iframe loading=\"lazy\" referrerpolicy=\"no-referrer\" style=\"border-radius: 12px\" width=\"100%\" height=\"352\" title=\"Spotify Embed: Late of the Pier\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/artist/5ZBQea34QfBgEDkcGEKK2b?utm_source=oembed\"></iframe>",
+        "thumbnailUrl": "https://i.scdn.co/image/d1abb9c3aa8cfd17d3ebb07f7ab15ed2de4c1077"
+      },
+      {
+        "name": "LCD Soundsystem",
+        "artistId": "066X20Nz7iquqkkCW6Jxy6",
+        "embedHtml": "<iframe loading=\"lazy\" referrerpolicy=\"no-referrer\" style=\"border-radius: 12px\" width=\"100%\" height=\"352\" title=\"Spotify Embed: LCD Soundsystem\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/artist/066X20Nz7iquqkkCW6Jxy6?utm_source=oembed\"></iframe>",
+        "thumbnailUrl": "https://image-cdn-ak.spotifycdn.com/image/ab676161000051746a0838a408f8c9cf82915ac8"
+      },
+      {
+        "name": "Mr. Oizo",
+        "artistId": "0b9ukmbg0MO5eMlorcgOwz",
+        "embedHtml": "<iframe loading=\"lazy\" referrerpolicy=\"no-referrer\" style=\"border-radius: 12px\" width=\"100%\" height=\"352\" title=\"Spotify Embed: Mr. Oizo\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/artist/0b9ukmbg0MO5eMlorcgOwz?utm_source=oembed\"></iframe>",
+        "thumbnailUrl": "https://image-cdn-ak.spotifycdn.com/image/ab6761610000517402b5851e1d1769748d64b908"
+      },
+      {
+        "name": "MSTRKRFT",
+        "artistId": "2squZ8HjM4AzR0j6jsPn4a",
+        "embedHtml": "<iframe loading=\"lazy\" referrerpolicy=\"no-referrer\" style=\"border-radius: 12px\" width=\"100%\" height=\"352\" title=\"Spotify Embed: MSTRKRFT\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/artist/2squZ8HjM4AzR0j6jsPn4a?utm_source=oembed\"></iframe>",
+        "thumbnailUrl": "https://image-cdn-ak.spotifycdn.com/image/ab67616100005174b32dc9a5cff61e0a4dae728b"
+      },
+      {
+        "name": "Soulwax",
+        "artistId": "43mWhBXSflupNLuNjM5vff",
+        "embedHtml": "<iframe loading=\"lazy\" referrerpolicy=\"no-referrer\" style=\"border-radius: 12px\" width=\"100%\" height=\"352\" title=\"Spotify Embed: Soulwax\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/artist/43mWhBXSflupNLuNjM5vff?utm_source=oembed\"></iframe>",
+        "thumbnailUrl": "https://image-cdn-fa.spotifycdn.com/image/ab67616100005174ca556b991df304bb6835dc58"
+      },
+      {
+        "name": "The Bloody Beetroots",
+        "artistId": "0QJKELJZZuLAjqLOOixJm5",
+        "embedHtml": "<iframe loading=\"lazy\" referrerpolicy=\"no-referrer\" style=\"border-radius: 12px\" width=\"100%\" height=\"352\" title=\"Spotify Embed: The Bloody Beetroots\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/artist/0QJKELJZZuLAjqLOOixJm5?utm_source=oembed\"></iframe>",
+        "thumbnailUrl": "https://image-cdn-ak.spotifycdn.com/image/ab67616100005174808b7e343dd6c45a25e9cf3c"
+      },
+      {
+        "name": "The Presets",
+        "artistId": "1zTAQ6zkGz2L2i6lfR30EX",
+        "embedHtml": "<iframe loading=\"lazy\" referrerpolicy=\"no-referrer\" style=\"border-radius: 12px\" width=\"100%\" height=\"352\" title=\"Spotify Embed: The Presets\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/artist/1zTAQ6zkGz2L2i6lfR30EX?utm_source=oembed\"></iframe>",
+        "thumbnailUrl": "https://image-cdn-fa.spotifycdn.com/image/ab67616100005174a0dcf90d9d15788e5bdd5673"
+      },
+      {
+        "name": "Vitalic",
+        "artistId": "4M84umUNRbZy1mJleyyRM9",
+        "embedHtml": "<iframe loading=\"lazy\" referrerpolicy=\"no-referrer\" style=\"border-radius: 12px\" width=\"100%\" height=\"352\" title=\"Spotify Embed: Vitalic\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/artist/4M84umUNRbZy1mJleyyRM9?utm_source=oembed\"></iframe>",
+        "thumbnailUrl": "https://image-cdn-ak.spotifycdn.com/image/ab6761610000517450963b3373f89e7369186a62"
+      },
+      {
+        "name": "ZZT",
+        "artistId": "2gv0vhtUiUJeGcYkTybo7G",
+        "embedHtml": "<iframe loading=\"lazy\" referrerpolicy=\"no-referrer\" style=\"border-radius: 12px\" width=\"100%\" height=\"352\" title=\"Spotify Embed: ZZT\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/artist/2gv0vhtUiUJeGcYkTybo7G?utm_source=oembed\"></iframe>",
+        "thumbnailUrl": "https://image-cdn-ak.spotifycdn.com/image/ab67616d00001e022a292883ce83e9504c717682"
+      }
+    ]
+  },
+  {
+    "title": "Alive 2007 / Ed Banger",
+    "coverUrl": "/alive_2007.jpeg",
+    "artists": [
+      {
+        "name": "Alex Metric",
+        "artistId": "6RDNTAgm2s6ae71nXWGnJD",
+        "embedHtml": "<iframe loading=\"lazy\" referrerpolicy=\"no-referrer\" style=\"border-radius: 12px\" width=\"100%\" height=\"352\" title=\"Spotify Embed: Alex Metric\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/artist/6RDNTAgm2s6ae71nXWGnJD?utm_source=oembed\"></iframe>",
+        "thumbnailUrl": "https://image-cdn-ak.spotifycdn.com/image/ab67616100005174b05f489e7eff81a69312f8e0"
+      },
+      {
+        "name": "Birdy Nam Nam",
+        "artistId": "4e7qJTThm5uI3CplqZObfT",
+        "embedHtml": "<iframe loading=\"lazy\" referrerpolicy=\"no-referrer\" style=\"border-radius: 12px\" width=\"100%\" height=\"352\" title=\"Spotify Embed: Birdy Nam Nam\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/artist/4e7qJTThm5uI3CplqZObfT?utm_source=oembed\"></iframe>",
+        "thumbnailUrl": "https://image-cdn-fa.spotifycdn.com/image/ab67616100005174a905450ea45b7932413ef9ff"
+      },
+      {
+        "name": "Feadz",
+        "artistId": "7JZVTmKriBVQOShSmN4d8I",
+        "embedHtml": "<iframe loading=\"lazy\" referrerpolicy=\"no-referrer\" style=\"border-radius: 12px\" width=\"100%\" height=\"352\" title=\"Spotify Embed: Feadz\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/artist/7JZVTmKriBVQOShSmN4d8I?utm_source=oembed\"></iframe>",
+        "thumbnailUrl": "https://i.scdn.co/image/ff363b48909bde3889570f74cf509e975f4087c0"
+      },
+      {
+        "name": "Justice",
+        "artistId": "1gR0gsQYfi6joyO1dlp76N",
+        "embedHtml": "<iframe loading=\"lazy\" referrerpolicy=\"no-referrer\" style=\"border-radius: 12px\" width=\"100%\" height=\"352\" title=\"Spotify Embed: Justice\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/artist/1gR0gsQYfi6joyO1dlp76N?utm_source=oembed\"></iframe>",
+        "thumbnailUrl": "https://image-cdn-ak.spotifycdn.com/image/ab67616100005174f140c161d9f9cc9afe85b6ed"
+      },
+      {
+        "name": "Lemaitre",
+        "artistId": "4CTKqs11Zgsv8EZTVzx764",
+        "embedHtml": "<iframe loading=\"lazy\" referrerpolicy=\"no-referrer\" style=\"border-radius: 12px\" width=\"100%\" height=\"352\" title=\"Spotify Embed: Lemaitre\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/artist/4CTKqs11Zgsv8EZTVzx764?utm_source=oembed\"></iframe>",
+        "thumbnailUrl": "https://image-cdn-ak.spotifycdn.com/image/ab67616100005174e9e3c4d15d2bccd76072338f"
+      },
+      {
+        "name": "Para One",
+        "artistId": "5MRONaryo2z75lLiuJ0NWJ",
+        "embedHtml": "<iframe loading=\"lazy\" referrerpolicy=\"no-referrer\" style=\"border-radius: 12px\" width=\"100%\" height=\"352\" title=\"Spotify Embed: Para One\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/artist/5MRONaryo2z75lLiuJ0NWJ?utm_source=oembed\"></iframe>",
+        "thumbnailUrl": "https://image-cdn-ak.spotifycdn.com/image/ab67616100005174ed4a04a842d857d16488d1e7"
+      },
+      {
+        "name": "SebastiAn",
+        "artistId": "5tOWIviwLM1EIqGAbF8VSU",
+        "embedHtml": "<iframe loading=\"lazy\" referrerpolicy=\"no-referrer\" style=\"border-radius: 12px\" width=\"100%\" height=\"352\" title=\"Spotify Embed: SebastiAn\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/artist/5tOWIviwLM1EIqGAbF8VSU?utm_source=oembed\"></iframe>",
+        "thumbnailUrl": "https://image-cdn-ak.spotifycdn.com/image/ab67616100005174fea5e67c21857e7c997d3efc"
+      },
+      {
+        "name": "Shinichi Osawa",
+        "artistId": "0s9KIyjWtFcsRdKtMECxFp",
+        "embedHtml": "<iframe loading=\"lazy\" referrerpolicy=\"no-referrer\" style=\"border-radius: 12px\" width=\"100%\" height=\"352\" title=\"Spotify Embed: Shinichi Osawa\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/artist/0s9KIyjWtFcsRdKtMECxFp?utm_source=oembed\"></iframe>",
+        "thumbnailUrl": "https://image-cdn-ak.spotifycdn.com/image/ab676161000051740c43d77420e14a92f4a3b450"
+      },
+      {
+        "name": "Siriusmo",
+        "artistId": "22680B8sUdq6bL6nQaJfwg",
+        "embedHtml": "<iframe loading=\"lazy\" referrerpolicy=\"no-referrer\" style=\"border-radius: 12px\" width=\"100%\" height=\"352\" title=\"Spotify Embed: Siriusmo\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/artist/22680B8sUdq6bL6nQaJfwg?utm_source=oembed\"></iframe>",
+        "thumbnailUrl": "https://image-cdn-ak.spotifycdn.com/image/ab676161000051748210d0a1164f432682c28880"
+      },
+      {
+        "name": "Surkin",
+        "artistId": "1XqqyIQYMonHgllb1uysL3",
+        "embedHtml": "<iframe loading=\"lazy\" referrerpolicy=\"no-referrer\" style=\"border-radius: 12px\" width=\"100%\" height=\"352\" title=\"Spotify Embed: Surkin\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/artist/1XqqyIQYMonHgllb1uysL3?utm_source=oembed\"></iframe>",
+        "thumbnailUrl": "https://image-cdn-ak.spotifycdn.com/image/ab67616100005174f16ed27128b5425b498b04fd"
+      },
+      {
+        "name": "Uppermost",
+        "artistId": "58UpHBCQ1Jj67DJsR7Qyqg",
+        "embedHtml": "<iframe loading=\"lazy\" referrerpolicy=\"no-referrer\" style=\"border-radius: 12px\" width=\"100%\" height=\"352\" title=\"Spotify Embed: Uppermost\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/artist/58UpHBCQ1Jj67DJsR7Qyqg?utm_source=oembed\"></iframe>",
+        "thumbnailUrl": "https://image-cdn-ak.spotifycdn.com/image/ab6761610000517484af4ea688385c5a81210d90"
+      },
+      {
+        "name": "Yuksek",
+        "artistId": "2ePIzx9NjxplS724QMZtsf",
+        "embedHtml": "<iframe loading=\"lazy\" referrerpolicy=\"no-referrer\" style=\"border-radius: 12px\" width=\"100%\" height=\"352\" title=\"Spotify Embed: Yuksek\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/artist/2ePIzx9NjxplS724QMZtsf?utm_source=oembed\"></iframe>",
+        "thumbnailUrl": "https://image-cdn-ak.spotifycdn.com/image/ab67616100005174a8ccf16584dd0ff9b2a37982"
+      },
+      {
+        "name": "80KIDZ",
+        "artistId": "6ah9gnwgMJ1PMKhkKOwH1D",
+        "embedHtml": "<iframe loading=\"lazy\" referrerpolicy=\"no-referrer\" style=\"border-radius: 12px\" width=\"100%\" height=\"352\" title=\"Spotify Embed: 80KIDZ\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/artist/6ah9gnwgMJ1PMKhkKOwH1D?utm_source=oembed\"></iframe>",
+        "thumbnailUrl": "https://image-cdn-fa.spotifycdn.com/image/ab67616100005174765c65d6d68c185a7dfd0358"
+      }
+    ]
+  },
+  {
+    "title": "Hypnotize U",
+    "coverUrl": "/hypnotize.jpg",
+    "artists": [
+      {
+        "name": "C2C",
+        "artistId": "28INUgyzTTRbvSphrJbgZ2",
+        "embedHtml": "<iframe loading=\"lazy\" referrerpolicy=\"no-referrer\" style=\"border-radius: 12px\" width=\"100%\" height=\"352\" title=\"Spotify Embed: C2C\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/artist/28INUgyzTTRbvSphrJbgZ2?utm_source=oembed\"></iframe>",
+        "thumbnailUrl": "https://image-cdn-fa.spotifycdn.com/image/ab67616100005174ad836b81ffe6679bc8467648"
+      },
+      {
+        "name": "DJ Mehdi",
+        "artistId": "5ffMSKGQRhetAjBjEgkRun",
+        "embedHtml": "<iframe loading=\"lazy\" referrerpolicy=\"no-referrer\" style=\"border-radius: 12px\" width=\"100%\" height=\"352\" title=\"Spotify Embed: DJ Mehdi\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/artist/5ffMSKGQRhetAjBjEgkRun?utm_source=oembed\"></iframe>",
+        "thumbnailUrl": "https://image-cdn-fa.spotifycdn.com/image/ab67616100005174fcc8b260128b0fadcae9dae0"
+      },
+      {
+        "name": "DSL",
+        "artistId": "1NxmqVpjEvr3TvCchszQDx",
+        "embedHtml": "<iframe loading=\"lazy\" referrerpolicy=\"no-referrer\" style=\"border-radius: 12px\" width=\"100%\" height=\"352\" title=\"Spotify Embed: DSL\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/artist/1NxmqVpjEvr3TvCchszQDx?utm_source=oembed\"></iframe>",
+        "thumbnailUrl": "https://image-cdn-ak.spotifycdn.com/image/ab67616d00001e026eefe8d6ccbf3b24b05e911a"
+      },
+      {
+        "name": "Hocus Pocus",
+        "artistId": "1D5DI6S5zIiGPBf1IAuAJh",
+        "embedHtml": "<iframe loading=\"lazy\" referrerpolicy=\"no-referrer\" style=\"border-radius: 12px\" width=\"100%\" height=\"352\" title=\"Spotify Embed: Hocus Pocus\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/artist/1D5DI6S5zIiGPBf1IAuAJh?utm_source=oembed\"></iframe>",
+        "thumbnailUrl": "https://image-cdn-ak.spotifycdn.com/image/ab6761610000517489666a63fed708645945e792"
+      },
+      {
+        "name": "Outlines",
+        "artistId": "7xgpZefXaE1gldPF0XKbvc",
+        "embedHtml": "<iframe loading=\"lazy\" referrerpolicy=\"no-referrer\" style=\"border-radius: 12px\" width=\"100%\" height=\"352\" title=\"Spotify Embed: Outlines\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/artist/7xgpZefXaE1gldPF0XKbvc?utm_source=oembed\"></iframe>",
+        "thumbnailUrl": "https://image-cdn-ak.spotifycdn.com/image/ab676161000051741ff20accc56099a5a9d73702"
+      },
+      {
+        "name": "Teriyaki Boyz",
+        "artistId": "7HBai5xymOxIWoMWvWshe1",
+        "embedHtml": "<iframe loading=\"lazy\" referrerpolicy=\"no-referrer\" style=\"border-radius: 12px\" width=\"100%\" height=\"352\" title=\"Spotify Embed: Teriyaki Boyz\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/artist/7HBai5xymOxIWoMWvWshe1?utm_source=oembed\"></iframe>",
+        "thumbnailUrl": "https://image-cdn-fa.spotifycdn.com/image/ab67616d00001e02aac3b3863e8f7a43a9b65a19"
+      },
+      {
+        "name": "The Neptunes",
+        "artistId": "0KuF7reCTOZwV7YJnHQqgr",
+        "embedHtml": "<iframe loading=\"lazy\" referrerpolicy=\"no-referrer\" style=\"border-radius: 12px\" width=\"100%\" height=\"352\" title=\"Spotify Embed: The Neptunes\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/artist/0KuF7reCTOZwV7YJnHQqgr?utm_source=oembed\"></iframe>",
+        "thumbnailUrl": "https://image-cdn-fa.spotifycdn.com/image/ab67616100005174cf7dcb181fc5db70e2252aac"
+      },
+      {
+        "name": "Turntablerocker",
+        "artistId": "6Svhb1vO5IFId41F9zIOiN",
+        "embedHtml": "<iframe loading=\"lazy\" referrerpolicy=\"no-referrer\" style=\"border-radius: 12px\" width=\"100%\" height=\"352\" title=\"Spotify Embed: Turntablerocker\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/artist/6Svhb1vO5IFId41F9zIOiN?utm_source=oembed\"></iframe>"
+      }
+    ]
+  },
+  {
+    "title": "TRON: Legacy",
+    "coverUrl": "/tron.jpeg",
+    "artists": [
+      {
+        "name": "Anoraak",
+        "artistId": "2DfP0hQCCFmZHjstSE8yXC",
+        "embedHtml": "<iframe loading=\"lazy\" referrerpolicy=\"no-referrer\" style=\"border-radius: 12px\" width=\"100%\" height=\"352\" title=\"Spotify Embed: Anoraak\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/artist/2DfP0hQCCFmZHjstSE8yXC?utm_source=oembed\"></iframe>",
+        "thumbnailUrl": "https://image-cdn-fa.spotifycdn.com/image/ab6761610000517474e19d6b0a50a8c7921d35fa"
+      },
+      {
+        "name": "College",
+        "artistId": "11TlWPqyDFLHGccTFQhcc6",
+        "embedHtml": "<iframe loading=\"lazy\" referrerpolicy=\"no-referrer\" style=\"border-radius: 12px\" width=\"100%\" height=\"352\" title=\"Spotify Embed: College\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/artist/11TlWPqyDFLHGccTFQhcc6?utm_source=oembed\"></iframe>",
+        "thumbnailUrl": "https://image-cdn-ak.spotifycdn.com/image/ab67616100005174c38c404f401f267adff0a288"
+      },
+      {
+        "name": "Danger",
+        "artistId": "2o3U0ld93tHYowkoari4Vi",
+        "embedHtml": "<iframe loading=\"lazy\" referrerpolicy=\"no-referrer\" style=\"border-radius: 12px\" width=\"100%\" height=\"352\" title=\"Spotify Embed: Danger\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/artist/2o3U0ld93tHYowkoari4Vi?utm_source=oembed\"></iframe>",
+        "thumbnailUrl": "https://image-cdn-ak.spotifycdn.com/image/ab676161000051747de4248ef1267a4ab9de1bca"
+      },
+      {
+        "name": "DatA",
+        "artistId": "75QkeG5yBHVCybZurCrMa8",
+        "embedHtml": "<iframe loading=\"lazy\" referrerpolicy=\"no-referrer\" style=\"border-radius: 12px\" width=\"100%\" height=\"352\" title=\"Spotify Embed: Data\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/artist/75QkeG5yBHVCybZurCrMa8?utm_source=oembed\"></iframe>",
+        "thumbnailUrl": "https://image-cdn-ak.spotifycdn.com/image/ab67616100005174a0fe4cf82b0cc70d2415817b"
+      },
+      {
+        "name": "Grum",
+        "artistId": "3VEqFWRt47xQAZJMBF3duQ",
+        "embedHtml": "<iframe loading=\"lazy\" referrerpolicy=\"no-referrer\" style=\"border-radius: 12px\" width=\"100%\" height=\"352\" title=\"Spotify Embed: Grum\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/artist/3VEqFWRt47xQAZJMBF3duQ?utm_source=oembed\"></iframe>",
+        "thumbnailUrl": "https://image-cdn-ak.spotifycdn.com/image/ab67616100005174d41696feef0c9b99a61f059b"
+      },
+      {
+        "name": "Home",
+        "artistId": "2exebQUDoIoT0dXA8BcN1P",
+        "embedHtml": "<iframe loading=\"lazy\" referrerpolicy=\"no-referrer\" style=\"border-radius: 12px\" width=\"100%\" height=\"352\" title=\"Spotify Embed: Home\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/artist/2exebQUDoIoT0dXA8BcN1P?utm_source=oembed\"></iframe>",
+        "thumbnailUrl": "https://image-cdn-fa.spotifycdn.com/image/ab676161000051749c1eb9531e1176c4a3a25925"
+      },
+      {
+        "name": "Kavinsky",
+        "artistId": "0UF7XLthtbSF2Eur7559oV",
+        "embedHtml": "<iframe loading=\"lazy\" referrerpolicy=\"no-referrer\" style=\"border-radius: 12px\" width=\"100%\" height=\"352\" title=\"Spotify Embed: Kavinsky\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/artist/0UF7XLthtbSF2Eur7559oV?utm_source=oembed\"></iframe>",
+        "thumbnailUrl": "https://image-cdn-ak.spotifycdn.com/image/ab676161000051742dc7b3180bad1885c6ee1320"
+      },
+      {
+        "name": "Lifelike",
+        "artistId": "3sa5sqxJqYjDZhGxmo4Ko5",
+        "embedHtml": "<iframe loading=\"lazy\" referrerpolicy=\"no-referrer\" style=\"border-radius: 12px\" width=\"100%\" height=\"352\" title=\"Spotify Embed: Lifelike\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/artist/3sa5sqxJqYjDZhGxmo4Ko5?utm_source=oembed\"></iframe>",
+        "thumbnailUrl": "https://image-cdn-ak.spotifycdn.com/image/ab676161000051745a6bdb4e86673a81c5051671"
+      },
+      {
+        "name": "M83",
+        "artistId": "63MQldklfxkjYDoUE4Tppz",
+        "embedHtml": "<iframe loading=\"lazy\" referrerpolicy=\"no-referrer\" style=\"border-radius: 12px\" width=\"100%\" height=\"352\" title=\"Spotify Embed: M83\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/artist/63MQldklfxkjYDoUE4Tppz?utm_source=oembed\"></iframe>",
+        "thumbnailUrl": "https://image-cdn-ak.spotifycdn.com/image/ab67616100005174961ef259d6d8101edd2f80c0"
+      },
+      {
+        "name": "Midnight Juggernauts",
+        "artistId": "2tGIh9kwbXuko0z3BTldBx",
+        "embedHtml": "<iframe loading=\"lazy\" referrerpolicy=\"no-referrer\" style=\"border-radius: 12px\" width=\"100%\" height=\"352\" title=\"Spotify Embed: Midnight Juggernauts\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/artist/2tGIh9kwbXuko0z3BTldBx?utm_source=oembed\"></iframe>",
+        "thumbnailUrl": "https://i.scdn.co/image/29a76dc36c850c0ef7e814562ce3f68c90ffac6c"
+      },
+      {
+        "name": "Neon Indian",
+        "artistId": "0KydPQPUUoTNhmiHKOg5Er",
+        "embedHtml": "<iframe loading=\"lazy\" referrerpolicy=\"no-referrer\" style=\"border-radius: 12px\" width=\"100%\" height=\"352\" title=\"Spotify Embed: Neon Indian\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/artist/0KydPQPUUoTNhmiHKOg5Er?utm_source=oembed\"></iframe>",
+        "thumbnailUrl": "https://image-cdn-ak.spotifycdn.com/image/ab67726900008f7454c4f449b6f7c8283dbf03e7"
+      },
+      {
+        "name": "Starcadian",
+        "artistId": "3I0ceM8qfqhCKGepaswmVg",
+        "embedHtml": "<iframe loading=\"lazy\" referrerpolicy=\"no-referrer\" style=\"border-radius: 12px\" width=\"100%\" height=\"352\" title=\"Spotify Embed: Starcadian\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/artist/3I0ceM8qfqhCKGepaswmVg?utm_source=oembed\"></iframe>",
+        "thumbnailUrl": "https://image-cdn-ak.spotifycdn.com/image/ab676161000051745e0b78d3c029d948bae34088"
+      },
+      {
+        "name": "The Glitch Mob",
+        "artistId": "3a9qv6NLHnsVxJUtKOMHvD",
+        "embedHtml": "<iframe loading=\"lazy\" referrerpolicy=\"no-referrer\" style=\"border-radius: 12px\" width=\"100%\" height=\"352\" title=\"Spotify Embed: The Glitch Mob\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/artist/3a9qv6NLHnsVxJUtKOMHvD?utm_source=oembed\"></iframe>",
+        "thumbnailUrl": "https://image-cdn-fa.spotifycdn.com/image/ab67616100005174c6571fd463203a0bf67e229d"
+      }
+    ]
+  },
+  {
+    "title": "R3CONF1GUR3D",
+    "coverUrl": "/reconfigured.jpeg",
+    "artists": [
+      {
+        "name": "Carpenter Brut",
+        "artistId": "1l2oLiukA9i5jEtIyNWIEP",
+        "embedHtml": "<iframe loading=\"lazy\" referrerpolicy=\"no-referrer\" style=\"border-radius: 12px\" width=\"100%\" height=\"352\" title=\"Spotify Embed: Carpenter Brut\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/artist/1l2oLiukA9i5jEtIyNWIEP?utm_source=oembed\"></iframe>",
+        "thumbnailUrl": "https://image-cdn-ak.spotifycdn.com/image/ab676161000051741851f628c98a346f192bfa1c"
+      },
+      {
+        "name": "DEADLIFE",
+        "artistId": "6YAOorJSNGWyH8m9N7cDeX",
+        "embedHtml": "<iframe loading=\"lazy\" referrerpolicy=\"no-referrer\" style=\"border-radius: 12px\" width=\"100%\" height=\"352\" title=\"Spotify Embed: DEADLIFE\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/artist/6YAOorJSNGWyH8m9N7cDeX?utm_source=oembed\"></iframe>",
+        "thumbnailUrl": "https://image-cdn-ak.spotifycdn.com/image/ab676161000051749a7ca212732f4a42d87ebf91"
+      },
+      {
+        "name": "Magic Sword",
+        "artistId": "6PzFRXjgGHQw6K4WeERMK1",
+        "embedHtml": "<iframe loading=\"lazy\" referrerpolicy=\"no-referrer\" style=\"border-radius: 12px\" width=\"100%\" height=\"352\" title=\"Spotify Embed: Magic Sword\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/artist/6PzFRXjgGHQw6K4WeERMK1?utm_source=oembed\"></iframe>",
+        "thumbnailUrl": "https://image-cdn-ak.spotifycdn.com/image/ab6761610000517499aff0805c5262fd82a3aa0e"
+      },
+      {
+        "name": "NERO",
+        "artistId": "4uRYpUQZrNrY5t8tAv3XrD",
+        "embedHtml": "<iframe loading=\"lazy\" referrerpolicy=\"no-referrer\" style=\"border-radius: 12px\" width=\"100%\" height=\"352\" title=\"Spotify Embed: NERO\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/artist/4uRYpUQZrNrY5t8tAv3XrD?utm_source=oembed\"></iframe>",
+        "thumbnailUrl": "https://image-cdn-ak.spotifycdn.com/image/ab67616100005174810b04852e42d0f7932fb89c"
+      },
+      {
+        "name": "Perturbator",
+        "artistId": "244uLu9lkdw39BJwlul3k8",
+        "embedHtml": "<iframe loading=\"lazy\" referrerpolicy=\"no-referrer\" style=\"border-radius: 12px\" width=\"100%\" height=\"352\" title=\"Spotify Embed: Perturbator\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/artist/244uLu9lkdw39BJwlul3k8?utm_source=oembed\"></iframe>",
+        "thumbnailUrl": "https://image-cdn-fa.spotifycdn.com/image/ab676161000051747aa1171baef93e682ceb9ea8"
+      },
+      {
+        "name": "Prince 85",
+        "artistId": "6ADNjKrreUUc181zsy4Cte",
+        "embedHtml": "<iframe loading=\"lazy\" referrerpolicy=\"no-referrer\" style=\"border-radius: 12px\" width=\"100%\" height=\"352\" title=\"Spotify Embed: Prince 85\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/artist/6ADNjKrreUUc181zsy4Cte?utm_source=oembed\"></iframe>",
+        "thumbnailUrl": "https://image-cdn-fa.spotifycdn.com/image/ab67616100005174a66cc49555c2d1e8498b64e3"
+      },
+      {
+        "name": "The M Machine",
+        "artistId": "62rW7FjQy7clhBDHuumg22",
+        "embedHtml": "<iframe loading=\"lazy\" referrerpolicy=\"no-referrer\" style=\"border-radius: 12px\" width=\"100%\" height=\"352\" title=\"Spotify Embed: The M Machine\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/artist/62rW7FjQy7clhBDHuumg22?utm_source=oembed\"></iframe>",
+        "thumbnailUrl": "https://i.scdn.co/image/ea015ad6559908ea64ca9fbca283334102d558a3"
+      },
+      {
+        "name": "The Toxic Avenger",
+        "artistId": "5zExRf0VQCl3GO4Jrj8r0s",
+        "embedHtml": "<iframe loading=\"lazy\" referrerpolicy=\"no-referrer\" style=\"border-radius: 12px\" width=\"100%\" height=\"352\" title=\"Spotify Embed: The Toxic Avenger\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/artist/5zExRf0VQCl3GO4Jrj8r0s?utm_source=oembed\"></iframe>",
+        "thumbnailUrl": "https://image-cdn-ak.spotifycdn.com/image/ab676161000051746f0cb6e41ef4b54d3af18967"
+      }
+    ]
+  },
+  {
+    "title": "Random Access Memories",
+    "coverUrl": "/ram.png",
+    "artists": [
+      {
+        "name": "Aeroplane",
+        "artistId": "31CtLHmSL7Oa7TPU9YyBEu",
+        "embedHtml": "<iframe loading=\"lazy\" referrerpolicy=\"no-referrer\" style=\"border-radius: 12px\" width=\"100%\" height=\"352\" title=\"Spotify Embed: Aeroplane\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/artist/31CtLHmSL7Oa7TPU9YyBEu?utm_source=oembed\"></iframe>",
+        "thumbnailUrl": "https://image-cdn-ak.spotifycdn.com/image/ab6761610000517407a33c693aace1b2a84ad06e"
+      },
+      {
+        "name": "Air",
+        "artistId": "1P6U1dCeHxPui5pIrGmndZ",
+        "embedHtml": "<iframe loading=\"lazy\" referrerpolicy=\"no-referrer\" style=\"border-radius: 12px\" width=\"100%\" height=\"352\" title=\"Spotify Embed: Air\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/artist/1P6U1dCeHxPui5pIrGmndZ?utm_source=oembed\"></iframe>",
+        "thumbnailUrl": "https://image-cdn-ak.spotifycdn.com/image/ab67616100005174bba853968b8873dd4f6ef3c1"
+      },
+      {
+        "name": "Chic",
+        "artistId": "0Xf8oDAJYd2D0k3NLI19OV",
+        "embedHtml": "<iframe loading=\"lazy\" referrerpolicy=\"no-referrer\" style=\"border-radius: 12px\" width=\"100%\" height=\"352\" title=\"Spotify Embed: CHIC\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/artist/0Xf8oDAJYd2D0k3NLI19OV?utm_source=oembed\"></iframe>",
+        "thumbnailUrl": "https://image-cdn-fa.spotifycdn.com/image/ab676161000051744c74c17081e7e0ef8b5eb323"
+      },
+      {
+        "name": "Chilly Gonzales",
+        "artistId": "0qudezVgvl4Chd9BgNFB83",
+        "embedHtml": "<iframe loading=\"lazy\" referrerpolicy=\"no-referrer\" style=\"border-radius: 12px\" width=\"100%\" height=\"352\" title=\"Spotify Embed: Chilly Gonzales\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/artist/0qudezVgvl4Chd9BgNFB83?utm_source=oembed\"></iframe>",
+        "thumbnailUrl": "https://image-cdn-ak.spotifycdn.com/image/ab67616100005174c300079c1c4a77e1ac925471"
+      },
+      {
+        "name": "Chromeo",
+        "artistId": "2mV8aJphiSHYJf43DxL7Gt",
+        "embedHtml": "<iframe loading=\"lazy\" referrerpolicy=\"no-referrer\" style=\"border-radius: 12px\" width=\"100%\" height=\"352\" title=\"Spotify Embed: Chromeo\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/artist/2mV8aJphiSHYJf43DxL7Gt?utm_source=oembed\"></iframe>",
+        "thumbnailUrl": "https://image-cdn-ak.spotifycdn.com/image/ab67616100005174017399838e5064b16f01e4c1"
+      },
+      {
+        "name": "Dabeull",
+        "artistId": "7sw3xJMTpdcpfssx17hfrb",
+        "embedHtml": "<iframe loading=\"lazy\" referrerpolicy=\"no-referrer\" style=\"border-radius: 12px\" width=\"100%\" height=\"352\" title=\"Spotify Embed: Dabeull\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/artist/7sw3xJMTpdcpfssx17hfrb?utm_source=oembed\"></iframe>",
+        "thumbnailUrl": "https://image-cdn-ak.spotifycdn.com/image/ab6761610000517487063f650fb98fb1af8556d3"
+      },
+      {
+        "name": "FKJ",
+        "artistId": "2FwDTncULUnmANIh7qKa5z",
+        "embedHtml": "<iframe loading=\"lazy\" referrerpolicy=\"no-referrer\" style=\"border-radius: 12px\" width=\"100%\" height=\"352\" title=\"Spotify Embed: FKJ\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/artist/2FwDTncULUnmANIh7qKa5z?utm_source=oembed\"></iframe>",
+        "thumbnailUrl": "https://image-cdn-fa.spotifycdn.com/image/ab676161000051746008518ffc2479a241c30754"
+      },
+      {
+        "name": "Flight Facilities",
+        "artistId": "1lc8mnyGrCLtPhCoWjRxjM",
+        "embedHtml": "<iframe loading=\"lazy\" referrerpolicy=\"no-referrer\" style=\"border-radius: 12px\" width=\"100%\" height=\"352\" title=\"Spotify Embed: Flight Facilities\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/artist/1lc8mnyGrCLtPhCoWjRxjM?utm_source=oembed\"></iframe>",
+        "thumbnailUrl": "https://image-cdn-fa.spotifycdn.com/image/ab676161000051745906e85d477ee04bc5b8c6f0"
+      },
+      {
+        "name": "Giorgio Moroder",
+        "artistId": "6jU2Tt13MmXYk0ZBv1KmfO",
+        "embedHtml": "<iframe loading=\"lazy\" referrerpolicy=\"no-referrer\" style=\"border-radius: 12px\" width=\"100%\" height=\"352\" title=\"Spotify Embed: Giorgio Moroder\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/artist/6jU2Tt13MmXYk0ZBv1KmfO?utm_source=oembed\"></iframe>",
+        "thumbnailUrl": "https://i.scdn.co/image/6a95d158d48456476575e58d9782654ce5f8ba22"
+      },
+      {
+        "name": "Holy Ghost!",
+        "artistId": "2Vhc7Y0Kc6HzMC6glKM4h6",
+        "embedHtml": "<iframe loading=\"lazy\" referrerpolicy=\"no-referrer\" style=\"border-radius: 12px\" width=\"100%\" height=\"352\" title=\"Spotify Embed: Holy Ghost!\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/artist/2Vhc7Y0Kc6HzMC6glKM4h6?utm_source=oembed\"></iframe>",
+        "thumbnailUrl": "https://image-cdn-ak.spotifycdn.com/image/ab67616100005174044ee16678493f145aa25ad1"
+      },
+      {
+        "name": "Jamiroquai",
+        "artistId": "6J7biCazzYhU3gM9j1wfid",
+        "embedHtml": "<iframe loading=\"lazy\" referrerpolicy=\"no-referrer\" style=\"border-radius: 12px\" width=\"100%\" height=\"352\" title=\"Spotify Embed: Jamiroquai\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/artist/6J7biCazzYhU3gM9j1wfid?utm_source=oembed\"></iframe>",
+        "thumbnailUrl": "https://image-cdn-fa.spotifycdn.com/image/ab676161000051747e6dca959714339b69e9718d"
+      },
+      {
+        "name": "Jungle",
+        "artistId": "59oA5WbbQvomJz2BuRG071",
+        "embedHtml": "<iframe loading=\"lazy\" referrerpolicy=\"no-referrer\" style=\"border-radius: 12px\" width=\"100%\" height=\"352\" title=\"Spotify Embed: Jungle\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/artist/59oA5WbbQvomJz2BuRG071?utm_source=oembed\"></iframe>",
+        "thumbnailUrl": "https://image-cdn-fa.spotifycdn.com/image/ab6761610000517421f6e9ccd576bb2ef541a3fe"
+      },
+      {
+        "name": "L'Imperatrice",
+        "artistId": "4PwlsrN0t5mLN0C827cbEU",
+        "embedHtml": "<iframe loading=\"lazy\" referrerpolicy=\"no-referrer\" style=\"border-radius: 12px\" width=\"100%\" height=\"352\" title=\"Spotify Embed: L&apos;Impératrice\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/artist/4PwlsrN0t5mLN0C827cbEU?utm_source=oembed\"></iframe>",
+        "thumbnailUrl": "https://image-cdn-ak.spotifycdn.com/image/ab67616100005174c676dbddd1febecdb7ccf160"
+      },
+      {
+        "name": "Poolside",
+        "artistId": "5szdY7KaSi7epwyffrbV8c",
+        "embedHtml": "<iframe loading=\"lazy\" referrerpolicy=\"no-referrer\" style=\"border-radius: 12px\" width=\"100%\" height=\"352\" title=\"Spotify Embed: Poolside\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/artist/5szdY7KaSi7epwyffrbV8c?utm_source=oembed\"></iframe>",
+        "thumbnailUrl": "https://image-cdn-ak.spotifycdn.com/image/ab67616100005174735c6b30d628b86e35097e53"
+      },
+      {
+        "name": "Todd Terje",
+        "artistId": "49gaZqfow2v8EEQmjGyEIw",
+        "embedHtml": "<iframe loading=\"lazy\" referrerpolicy=\"no-referrer\" style=\"border-radius: 12px\" width=\"100%\" height=\"352\" title=\"Spotify Embed: Todd Terje\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/artist/49gaZqfow2v8EEQmjGyEIw?utm_source=oembed\"></iframe>",
+        "thumbnailUrl": "https://image-cdn-ak.spotifycdn.com/image/ab67726900008f74ee826f3090c979fb0772e925"
+      },
+      {
+        "name": "TWRP",
+        "artistId": "6N3egqZ7OtcYYXyU6PBdNr",
+        "embedHtml": "<iframe loading=\"lazy\" referrerpolicy=\"no-referrer\" style=\"border-radius: 12px\" width=\"100%\" height=\"352\" title=\"Spotify Embed: TWRP\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/artist/6N3egqZ7OtcYYXyU6PBdNr?utm_source=oembed\"></iframe>",
+        "thumbnailUrl": "https://image-cdn-ak.spotifycdn.com/image/ab67616100005174100da61a04b3858e789ebeab"
+      }
+    ]
+  },
+  {
+    "title": "Starboy",
+    "coverUrl": "/starboy.jpg",
+    "artists": [
+      {
+        "name": "Charlotte Gainsbourg",
+        "artistId": "2rBcvLKWCZs9w1qIWv560v",
+        "embedHtml": "<iframe loading=\"lazy\" referrerpolicy=\"no-referrer\" style=\"border-radius: 12px\" width=\"100%\" height=\"352\" title=\"Spotify Embed: Charlotte Gainsbourg\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/artist/2rBcvLKWCZs9w1qIWv560v?utm_source=oembed\"></iframe>",
+        "thumbnailUrl": "https://image-cdn-ak.spotifycdn.com/image/ab676161000051745c6941ccec946b6e52c87362"
+      },
+      {
+        "name": "Chateau Marmont",
+        "artistId": "4IQ782VL9bK0q2Judy9mIF",
+        "embedHtml": "<iframe loading=\"lazy\" referrerpolicy=\"no-referrer\" style=\"border-radius: 12px\" width=\"100%\" height=\"352\" title=\"Spotify Embed: Chateau Marmont\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/artist/4IQ782VL9bK0q2Judy9mIF?utm_source=oembed\"></iframe>",
+        "thumbnailUrl": "https://image-cdn-ak.spotifycdn.com/image/ab676161000051742647d2ac07a2abbefb200e4a"
+      },
+      {
+        "name": "Club cheval",
+        "artistId": "3sFn8HRnBP6g4twNNy9Tzz",
+        "embedHtml": "<iframe loading=\"lazy\" referrerpolicy=\"no-referrer\" style=\"border-radius: 12px\" width=\"100%\" height=\"352\" title=\"Spotify Embed: Club cheval\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/artist/3sFn8HRnBP6g4twNNy9Tzz?utm_source=oembed\"></iframe>",
+        "thumbnailUrl": "https://image-cdn-ak.spotifycdn.com/image/ab67726900008f74148c1cb295e93d69a9355a28"
+      },
+      {
+        "name": "Depeche Mode",
+        "artistId": "762310PdDnwsDxAQxzQkfX",
+        "embedHtml": "<iframe loading=\"lazy\" referrerpolicy=\"no-referrer\" style=\"border-radius: 12px\" width=\"100%\" height=\"352\" title=\"Spotify Embed: Depeche Mode\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/artist/762310PdDnwsDxAQxzQkfX?utm_source=oembed\"></iframe>",
+        "thumbnailUrl": "https://image-cdn-ak.spotifycdn.com/image/ab67616100005174aff13c9484fdad590ccfb73c"
+      },
+      {
+        "name": "GENER8ION",
+        "artistId": "5xXSrTidFvVRJmiam2Zh1o",
+        "embedHtml": "<iframe loading=\"lazy\" referrerpolicy=\"no-referrer\" style=\"border-radius: 12px\" width=\"100%\" height=\"352\" title=\"Spotify Embed: GENER8ION\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/artist/5xXSrTidFvVRJmiam2Zh1o?utm_source=oembed\"></iframe>",
+        "thumbnailUrl": "https://image-cdn-ak.spotifycdn.com/image/ab676161000051747bc3c41554a2c206f2b7f1fc"
+      },
+      {
+        "name": "Juliette Armanet",
+        "artistId": "61CPKXT0bcKj8MKTNTMOXa",
+        "embedHtml": "<iframe loading=\"lazy\" referrerpolicy=\"no-referrer\" style=\"border-radius: 12px\" width=\"100%\" height=\"352\" title=\"Spotify Embed: Juliette Armanet\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/artist/61CPKXT0bcKj8MKTNTMOXa?utm_source=oembed\"></iframe>",
+        "thumbnailUrl": "https://image-cdn-fa.spotifycdn.com/image/ab676161000051743869679fca4ed2840ceecb41"
+      },
+      {
+        "name": "KAYTRANADA",
+        "artistId": "6qgnBH6iDM91ipVXv28OMu",
+        "embedHtml": "<iframe loading=\"lazy\" referrerpolicy=\"no-referrer\" style=\"border-radius: 12px\" width=\"100%\" height=\"352\" title=\"Spotify Embed: KAYTRANADA\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/artist/6qgnBH6iDM91ipVXv28OMu?utm_source=oembed\"></iframe>",
+        "thumbnailUrl": "https://image-cdn-ak.spotifycdn.com/image/ab676161000051749b9d4fdf5e4cf58e2fa93167"
+      },
+      {
+        "name": "Sébastien Tellier",
+        "artistId": "23ymPLjbtAMzTJS2qRtQ8Z",
+        "embedHtml": "<iframe loading=\"lazy\" referrerpolicy=\"no-referrer\" style=\"border-radius: 12px\" width=\"100%\" height=\"352\" title=\"Spotify Embed: Sébastien Tellier\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/artist/23ymPLjbtAMzTJS2qRtQ8Z?utm_source=oembed\"></iframe>",
+        "thumbnailUrl": "https://image-cdn-ak.spotifycdn.com/image/ab676161000051747748bdc3821465cb86d6c115"
+      },
+      {
+        "name": "The Weeknd",
+        "artistId": "1Xyo4u8uXC1ZmMpatF05PJ",
+        "embedHtml": "<iframe loading=\"lazy\" referrerpolicy=\"no-referrer\" style=\"border-radius: 12px\" width=\"100%\" height=\"352\" title=\"Spotify Embed: The Weeknd\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/artist/1Xyo4u8uXC1ZmMpatF05PJ?utm_source=oembed\"></iframe>",
+        "thumbnailUrl": "https://image-cdn-ak.spotifycdn.com/image/ab676161000051749e528993a2820267b97f6aae"
+      },
+      {
+        "name": "Woodkid",
+        "artistId": "44TGR1CzjKBxSHsSEy7bi9",
+        "embedHtml": "<iframe loading=\"lazy\" referrerpolicy=\"no-referrer\" style=\"border-radius: 12px\" width=\"100%\" height=\"352\" title=\"Spotify Embed: Woodkid\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/artist/44TGR1CzjKBxSHsSEy7bi9?utm_source=oembed\"></iframe>",
+        "thumbnailUrl": "https://image-cdn-fa.spotifycdn.com/image/ab6761610000517475b44a5ac0ce26ea18e05265"
+      }
+    ]
+  },
+  {
+    "title": "Overnight / Kitsuné",
+    "coverUrl": "/overnight.jpg",
+    "artists": [
+      {
+        "name": "CSS",
+        "artistId": "2K13AVg3bFpHSxDM1vJ0qA",
+        "embedHtml": "<iframe loading=\"lazy\" referrerpolicy=\"no-referrer\" style=\"border-radius: 12px\" width=\"100%\" height=\"352\" title=\"Spotify Embed: CSS\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/artist/2K13AVg3bFpHSxDM1vJ0qA?utm_source=oembed\"></iframe>",
+        "thumbnailUrl": "https://image-cdn-ak.spotifycdn.com/image/ab6761610000517485e7d0638fb13effafa16008"
+      },
+      {
+        "name": "Das Pop",
+        "artistId": "6HvBsTSctQ8SGUzzfnMPcV",
+        "embedHtml": "<iframe loading=\"lazy\" referrerpolicy=\"no-referrer\" style=\"border-radius: 12px\" width=\"100%\" height=\"352\" title=\"Spotify Embed: Das Pop\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/artist/6HvBsTSctQ8SGUzzfnMPcV?utm_source=oembed\"></iframe>",
+        "thumbnailUrl": "https://image-cdn-ak.spotifycdn.com/image/ab67616100005174405f51eaf236ec4512e8b6d5"
+      },
+      {
+        "name": "Empire of the Sun",
+        "artistId": "67hb7towEyKvt5Z8Bx306c",
+        "embedHtml": "<iframe loading=\"lazy\" referrerpolicy=\"no-referrer\" style=\"border-radius: 12px\" width=\"100%\" height=\"352\" title=\"Spotify Embed: Empire Of The Sun\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/artist/67hb7towEyKvt5Z8Bx306c?utm_source=oembed\"></iframe>",
+        "thumbnailUrl": "https://image-cdn-ak.spotifycdn.com/image/ab67616100005174c806f3e714afa21861e20248"
+      },
+      {
+        "name": "Friendly Fires",
+        "artistId": "3mZqziCJj4pq3P2VBpmK6p",
+        "embedHtml": "<iframe loading=\"lazy\" referrerpolicy=\"no-referrer\" style=\"border-radius: 12px\" width=\"100%\" height=\"352\" title=\"Spotify Embed: Friendly Fires\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/artist/3mZqziCJj4pq3P2VBpmK6p?utm_source=oembed\"></iframe>",
+        "thumbnailUrl": "https://image-cdn-ak.spotifycdn.com/image/ab676161000051740dc9b2da8529ee1bda8fe04b"
+      },
+      {
+        "name": "Gemini Club",
+        "artistId": "2aCPI1cQHluLnMHkndCL4L",
+        "embedHtml": "<iframe loading=\"lazy\" referrerpolicy=\"no-referrer\" style=\"border-radius: 12px\" width=\"100%\" height=\"352\" title=\"Spotify Embed: Gemini Club\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/artist/2aCPI1cQHluLnMHkndCL4L?utm_source=oembed\"></iframe>",
+        "thumbnailUrl": "https://image-cdn-ak.spotifycdn.com/image/ab67616d00001e023f72fdd6fb4da25b09ec9a5c"
+      },
+      {
+        "name": "Hey Champ!",
+        "artistId": "5s1MYt4IRlnpon0BWc7R8p",
+        "embedHtml": "<iframe loading=\"lazy\" referrerpolicy=\"no-referrer\" style=\"border-radius: 12px\" width=\"100%\" height=\"352\" title=\"Spotify Embed: Hey Champ\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/artist/5s1MYt4IRlnpon0BWc7R8p?utm_source=oembed\"></iframe>",
+        "thumbnailUrl": "https://image-cdn-fa.spotifycdn.com/image/ab6761610000517433f5af6dd54eba95891f62c3"
+      },
+      {
+        "name": "Jamaica",
+        "artistId": "5UCFEKPsy3gDKElikr5vg9",
+        "embedHtml": "<iframe loading=\"lazy\" referrerpolicy=\"no-referrer\" style=\"border-radius: 12px\" width=\"100%\" height=\"352\" title=\"Spotify Embed: Jamaica\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/artist/5UCFEKPsy3gDKElikr5vg9?utm_source=oembed\"></iframe>",
+        "thumbnailUrl": "https://image-cdn-ak.spotifycdn.com/image/ab676161000051745603029b46a63bb483e566cd"
+      },
+      {
+        "name": "Jupiter",
+        "artistId": "7yIZvf93cvym5UEV2IGd8D",
+        "embedHtml": "<iframe loading=\"lazy\" referrerpolicy=\"no-referrer\" style=\"border-radius: 12px\" width=\"100%\" height=\"352\" title=\"Spotify Embed: Jupiter\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/artist/7yIZvf93cvym5UEV2IGd8D?utm_source=oembed\"></iframe>",
+        "thumbnailUrl": "https://image-cdn-fa.spotifycdn.com/image/ab67616100005174cc94e00ed1a83cbb96b75548"
+      },
+      {
+        "name": "Metronomy",
+        "artistId": "54QMjE4toDfiCryzYWCpXX",
+        "embedHtml": "<iframe loading=\"lazy\" referrerpolicy=\"no-referrer\" style=\"border-radius: 12px\" width=\"100%\" height=\"352\" title=\"Spotify Embed: Metronomy\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/artist/54QMjE4toDfiCryzYWCpXX?utm_source=oembed\"></iframe>",
+        "thumbnailUrl": "https://image-cdn-ak.spotifycdn.com/image/ab67616100005174ceff4142bf102931cd3cd61d"
+      },
+      {
+        "name": "Parcels",
+        "artistId": "3oKRxpszQKUjjaHz388fVA",
+        "embedHtml": "<iframe loading=\"lazy\" referrerpolicy=\"no-referrer\" style=\"border-radius: 12px\" width=\"100%\" height=\"352\" title=\"Spotify Embed: Parcels\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/artist/3oKRxpszQKUjjaHz388fVA?utm_source=oembed\"></iframe>",
+        "thumbnailUrl": "https://image-cdn-ak.spotifycdn.com/image/ab676161000051743f64ee564d3617f6a764f933"
+      },
+      {
+        "name": "Phoenix",
+        "artistId": "1xU878Z1QtBldR7ru9owdU",
+        "embedHtml": "<iframe loading=\"lazy\" referrerpolicy=\"no-referrer\" style=\"border-radius: 12px\" width=\"100%\" height=\"352\" title=\"Spotify Embed: Phoenix\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/artist/1xU878Z1QtBldR7ru9owdU?utm_source=oembed\"></iframe>",
+        "thumbnailUrl": "https://image-cdn-ak.spotifycdn.com/image/ab67616100005174722051daeb10119e2e039724"
+      },
+      {
+        "name": "The Shoes",
+        "artistId": "6buUuVTdxxAe5ODJtKZ4hP",
+        "embedHtml": "<iframe loading=\"lazy\" referrerpolicy=\"no-referrer\" style=\"border-radius: 12px\" width=\"100%\" height=\"352\" title=\"Spotify Embed: The Shoes\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/artist/6buUuVTdxxAe5ODJtKZ4hP?utm_source=oembed\"></iframe>",
+        "thumbnailUrl": "https://i.scdn.co/image/5d472b12f935da96e2d4383ff91acc3eac589608"
+      },
+      {
+        "name": "The Strokes",
+        "artistId": "0epOFNiUfyON9EYx7Tpr6V",
+        "embedHtml": "<iframe loading=\"lazy\" referrerpolicy=\"no-referrer\" style=\"border-radius: 12px\" width=\"100%\" height=\"352\" title=\"Spotify Embed: The Strokes\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/artist/0epOFNiUfyON9EYx7Tpr6V?utm_source=oembed\"></iframe>",
+        "thumbnailUrl": "https://image-cdn-ak.spotifycdn.com/image/ab67616100005174c3b137793230f4043feb0089"
+      },
+      {
+        "name": "The Twelves",
+        "artistId": "6IZEHKUV146uXaXOMKfcqK",
+        "embedHtml": "<iframe loading=\"lazy\" referrerpolicy=\"no-referrer\" style=\"border-radius: 12px\" width=\"100%\" height=\"352\" title=\"Spotify Embed: The Twelves\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/artist/6IZEHKUV146uXaXOMKfcqK?utm_source=oembed\"></iframe>",
+        "thumbnailUrl": "https://image-cdn-fa.spotifycdn.com/image/ab67616100005174652fff66c636a64e32aeaae0"
+      },
+      {
+        "name": "The Whip",
+        "artistId": "4M2H1fDQR5ygAi7MMOVxAA",
+        "embedHtml": "<iframe loading=\"lazy\" referrerpolicy=\"no-referrer\" style=\"border-radius: 12px\" width=\"100%\" height=\"352\" title=\"Spotify Embed: The Whip\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/artist/4M2H1fDQR5ygAi7MMOVxAA?utm_source=oembed\"></iframe>",
+        "thumbnailUrl": "https://image-cdn-ak.spotifycdn.com/image/ab67616d00001e02bf437ec4319c64f755edd9ea"
+      },
+      {
+        "name": "Two Door Cinema Club",
+        "artistId": "536BYVgOnRky0xjsPT96zl",
+        "embedHtml": "<iframe loading=\"lazy\" referrerpolicy=\"no-referrer\" style=\"border-radius: 12px\" width=\"100%\" height=\"352\" title=\"Spotify Embed: Two Door Cinema Club\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/artist/536BYVgOnRky0xjsPT96zl?utm_source=oembed\"></iframe>",
+        "thumbnailUrl": "https://image-cdn-ak.spotifycdn.com/image/ab6761610000517486faeb97a905a571b2c361a0"
+      },
+      {
+        "name": "Van She",
+        "artistId": "4FTDSkWpchgZy2axPEGDJW",
+        "embedHtml": "<iframe loading=\"lazy\" referrerpolicy=\"no-referrer\" style=\"border-radius: 12px\" width=\"100%\" height=\"352\" title=\"Spotify Embed: Van She\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/artist/4FTDSkWpchgZy2axPEGDJW?utm_source=oembed\"></iframe>",
+        "thumbnailUrl": "https://i.scdn.co/image/0e0c06e59f66eb814363b932759bbdc1797d5c5b"
+      }
+    ]
+  },
+  {
+    "title": "Musique",
+    "artists": [
+      {
+        "name": "A-Trak",
+        "artistId": "3TaUSUXn41GixL7zbvrIDt",
+        "embedHtml": "<iframe loading=\"lazy\" referrerpolicy=\"no-referrer\" style=\"border-radius: 12px\" width=\"100%\" height=\"352\" title=\"Spotify Embed: A-Trak\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/artist/3TaUSUXn41GixL7zbvrIDt?utm_source=oembed\"></iframe>",
+        "thumbnailUrl": "https://image-cdn-fa.spotifycdn.com/image/ab6761610000517421aab07a9dd7731204e9e2d4"
+      },
+      {
+        "name": "Calvin Harris (2007-09 + Funk way)",
+        "artistId": "7CajNmpbOovFoOoasH2HaY",
+        "embedHtml": "<iframe loading=\"lazy\" referrerpolicy=\"no-referrer\" style=\"border-radius: 12px\" width=\"100%\" height=\"352\" title=\"Spotify Embed: Calvin Harris\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/artist/7CajNmpbOovFoOoasH2HaY?utm_source=oembed\"></iframe>",
+        "thumbnailUrl": "https://image-cdn-ak.spotifycdn.com/image/ab676161000051741e4bcd2bef1896648762dd6b"
+      },
+      {
+        "name": "Caravan Palace",
+        "artistId": "37J1PlAkhRK7yrZUtqaUpQ",
+        "embedHtml": "<iframe loading=\"lazy\" referrerpolicy=\"no-referrer\" style=\"border-radius: 12px\" width=\"100%\" height=\"352\" title=\"Spotify Embed: Caravan Palace\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/artist/37J1PlAkhRK7yrZUtqaUpQ?utm_source=oembed\"></iframe>",
+        "thumbnailUrl": "https://image-cdn-fa.spotifycdn.com/image/ab676161000051744c74162a4233c9ac70581ef2"
+      },
+      {
+        "name": "DJ Koze",
+        "artistId": "1kR99O4MgSTasyeJh8UFCg",
+        "embedHtml": "<iframe loading=\"lazy\" referrerpolicy=\"no-referrer\" style=\"border-radius: 12px\" width=\"100%\" height=\"352\" title=\"Spotify Embed: DJ Koze\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/artist/1kR99O4MgSTasyeJh8UFCg?utm_source=oembed\"></iframe>",
+        "thumbnailUrl": "https://image-cdn-ak.spotifycdn.com/image/ab6761610000517434496025459ce3e157da9ea3"
+      },
+      {
+        "name": "Fatboy Slim",
+        "artistId": "4Y7tXHSEejGu1vQ9bwDdXW",
+        "embedHtml": "<iframe loading=\"lazy\" referrerpolicy=\"no-referrer\" style=\"border-radius: 12px\" width=\"100%\" height=\"352\" title=\"Spotify Embed: Fatboy Slim\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/artist/4Y7tXHSEejGu1vQ9bwDdXW?utm_source=oembed\"></iframe>",
+        "thumbnailUrl": "https://image-cdn-ak.spotifycdn.com/image/ab67616100005174c20ed3229eeced918966a009"
+      },
+      {
+        "name": "Gigamesh",
+        "artistId": "1Bo8Afb2Qbjs4x6kJHyjle",
+        "embedHtml": "<iframe loading=\"lazy\" referrerpolicy=\"no-referrer\" style=\"border-radius: 12px\" width=\"100%\" height=\"352\" title=\"Spotify Embed: Gigamesh\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/artist/1Bo8Afb2Qbjs4x6kJHyjle?utm_source=oembed\"></iframe>",
+        "thumbnailUrl": "https://image-cdn-fa.spotifycdn.com/image/ab676161000051742fe0cf6c62a0f80a58b49c84"
+      },
+      {
+        "name": "Gorillaz",
+        "artistId": "3AA28KZvwAUcZuOKwyblJQ",
+        "embedHtml": "<iframe loading=\"lazy\" referrerpolicy=\"no-referrer\" style=\"border-radius: 12px\" width=\"100%\" height=\"352\" title=\"Spotify Embed: Gorillaz\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/artist/3AA28KZvwAUcZuOKwyblJQ?utm_source=oembed\"></iframe>",
+        "thumbnailUrl": "https://image-cdn-fa.spotifycdn.com/image/ab67616100005174dd5b57b40cf2aaeccd07835e"
+      },
+      {
+        "name": "Mirwais",
+        "artistId": "0Ohm3LvFp7wzkvMeiTDPKQ",
+        "embedHtml": "<iframe loading=\"lazy\" referrerpolicy=\"no-referrer\" style=\"border-radius: 12px\" width=\"100%\" height=\"352\" title=\"Spotify Embed: Mirwais\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/artist/0Ohm3LvFp7wzkvMeiTDPKQ?utm_source=oembed\"></iframe>",
+        "thumbnailUrl": "https://image-cdn-fa.spotifycdn.com/image/ab676161000051748b49fcee9df1e145dd1a77a5"
+      },
+      {
+        "name": "Röyksopp",
+        "artistId": "5nPOO9iTcrs9k6yFffPxjH",
+        "embedHtml": "<iframe loading=\"lazy\" referrerpolicy=\"no-referrer\" style=\"border-radius: 12px\" width=\"100%\" height=\"352\" title=\"Spotify Embed: Röyksopp\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/artist/5nPOO9iTcrs9k6yFffPxjH?utm_source=oembed\"></iframe>",
+        "thumbnailUrl": "https://image-cdn-fa.spotifycdn.com/image/ab676161000051746bc3053447db6b61f3fe444c"
+      },
+      {
+        "name": "Tame Impala",
+        "artistId": "5INjqkS1o8h1imAzPqGZBb",
+        "embedHtml": "<iframe loading=\"lazy\" referrerpolicy=\"no-referrer\" style=\"border-radius: 12px\" width=\"100%\" height=\"352\" title=\"Spotify Embed: Tame Impala\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/artist/5INjqkS1o8h1imAzPqGZBb?utm_source=oembed\"></iframe>",
+        "thumbnailUrl": "https://image-cdn-ak.spotifycdn.com/image/ab67616100005174e412a782245eb20d9626c601"
+      },
+      {
+        "name": "The Knocks",
+        "artistId": "2x7EATekOPhFGRx3syMGEC",
+        "embedHtml": "<iframe loading=\"lazy\" referrerpolicy=\"no-referrer\" style=\"border-radius: 12px\" width=\"100%\" height=\"352\" title=\"Spotify Embed: The Knocks\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/artist/2x7EATekOPhFGRx3syMGEC?utm_source=oembed\"></iframe>",
+        "thumbnailUrl": "https://image-cdn-ak.spotifycdn.com/image/ab6761610000517405dacd07ad341a94d7bf33fe"
+      }
+    ]
+  }
+]
