@@ -5,11 +5,11 @@
 	export let artistId: string;
 	export let embedHtml: string;
 	export let thumbnailUrl: string;
-	export let forceLoad: boolean = false; // Controlled by parent
+	export let forceLoad: boolean = false;
+	export let autoOpenHrefOnHover: boolean = false;
 
 	let loaded = false;
 
-	// Automatically load if parent sets forceLoad
 	$: if (forceLoad) loaded = true;
 
 	function loadEmbed() {
@@ -21,15 +21,23 @@
 			duration: 350,
 			easing: cubicOut,
 			css: (t: any) => `
-        opacity: ${t};
-        transform: translateY(${(1 - t) * 10}px);
-      `
+				opacity: ${t};
+				transform: translateY(${(1 - t) * 10}px);
+			`
 		};
+	}
+
+	// Auto-open href on hover
+	function handleMouseEnter() {
+		if (autoOpenHrefOnHover) {
+			window.location.assign(`spotify:artist:${artistId}`);
+		}
 	}
 </script>
 
 <div
 	class="max-152 relative h-full w-full overflow-hidden rounded-xl border border-gray-800 bg-gray-900 shadow-lg"
+	on:mouseenter={handleMouseEnter}
 >
 	<a
 		href={`spotify:artist:${artistId}`}
